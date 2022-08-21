@@ -10,7 +10,7 @@ description = "Lemme try to fix it!"
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["infinite.gif"]
+images = ["doks.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
