@@ -1,17 +1,17 @@
 ---
-title: "Say hello to Doks 👋"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-excerpt: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+title: "Hey! This is iRep Air"
+description: "The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines."
+excerpt: "The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines."
+date: 2022-8-21
+lastmod: false
 draft: false
 weight: 50
-images: []
-categories: ["News"]
-tags: ["security", "performance", "SEO"]
-contributors: ["Henk Verlinde"]
-pinned: false
-homepage: false
+images: [blog pic]
+categories: ["Announcement"]
+tags: false
+contributors: ["William Wu"]
+pinned: true
+homepage: true
 ---
 
-Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
+The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines.
