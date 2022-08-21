@@ -1,8 +1,8 @@
 ---
-title: "Hey! This is iRep Air"
+title: "Hey! I Am iRep Air"
 description: "The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines."
 excerpt: "The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines."
-date: 2022-08-22T08:49:55+00:00
+date: false
 lastmod: false
 draft: false
 weight: 50
@@ -10,7 +10,7 @@ images: ["blog pic.jpeg"]
 categories: ["Announcement"]
 contributors: ["William Wu"]
 pinned: true
-homepage: true
+homepage: false
 ---
 
 The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines.

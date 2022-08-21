@@ -1,8 +1,9 @@
 ---
 title: "Announcement"
 description: ""
-date: 2020-10-06T08:49:55+00:00
-lastmod: 2020-10-06T08:49:55+00:00
+date: false
+lastmod: false
 draft: false
-images: ["block-pic.jpeg"]
+
 ---
+This is a place where you know more about me!
