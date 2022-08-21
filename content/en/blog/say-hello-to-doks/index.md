@@ -6,7 +6,7 @@ date: 2022-8-21
 lastmod: false
 draft: false
 weight: 50
-images: [blog pic.jpeg]
+images: [static/blog pic.jpeg]
 categories: ["Announcement"]
 contributors: ["William Wu"]
 pinned: true
