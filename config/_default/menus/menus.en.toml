@@ -3,10 +3,14 @@
   url = "/machines/"
   weight = 20
 
+[[Machines]]
+  name = "Denford Laser Cutter"
+  url = "/machines/denfordlasercutter/"
+  weight = 10
 
 [[main]]
   name = "What Am I?"
-  url = "/what-am-i/"
+  url = "/whatami/"
   weight = 10
 
 # [[footer]]
