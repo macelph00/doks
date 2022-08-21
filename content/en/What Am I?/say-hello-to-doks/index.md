@@ -1,16 +1,18 @@
 ---
 title: "Hey! I Am iRep Air"
-description: "The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines."
-excerpt: "The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines."
+description: ""
+excerpt: ""
 date: false
 lastmod: false
 draft: false
 weight: 50
-images: ["blog pic.jpeg"]
-categories: ["Announcement"]
+images: ["blog_pic.jpeg"]
+categories: [""]
 contributors: ["William Wu"]
 pinned: true
 homepage: false
 ---
 
-The purpose of iRep Air is to give every iForge rep confidence to fix common problems with most of the machines.
+The purpose of ME is to give every iForge rep confidence to fix common problems with most of the machines.
+
+![Let's fix it!](blog_pic.jpeg "")

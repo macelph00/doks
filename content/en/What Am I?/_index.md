@@ -6,4 +6,4 @@ lastmod: false
 draft: false
 
 ---
-This is a place where you know more about me!
+This is a place where you get to know more about me!
