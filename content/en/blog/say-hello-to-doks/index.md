@@ -8,7 +8,6 @@ draft: false
 weight: 50
 images: [blog pic]
 categories: ["Announcement"]
-tags: false
 contributors: ["William Wu"]
 pinned: true
 homepage: true
